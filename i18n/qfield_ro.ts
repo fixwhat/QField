@@ -4174,6 +4174,10 @@ Vă rugăm să le examinați și să reconfigurați proiectul QGIS.</translation
         <source>back</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6362,6 +6366,15 @@ Motiv:
 %2</source>
         <translation>Nu se poate adăuga un element nou în strat &quot;%1&quot;. Motiv:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

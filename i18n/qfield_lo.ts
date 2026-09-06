@@ -4152,6 +4152,10 @@ Cancel to make a minimal device scan instead.</source>
         <source>back</source>
         <translation>ດ້ານຫລັງ</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6325,6 +6329,15 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
         <source>Cannot add new feature in layer &quot;%1&quot;. Reason:
 %2</source>
         <translation>ບໍ່ສາມາດເພີ່ມຄຸນສົມບັດໃໝ່ໃນຊັ້ນຂໍ້ມູນ &quot;%1&quot;. ເຫດຜົນ:%2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

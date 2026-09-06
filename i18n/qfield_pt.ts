@@ -4171,6 +4171,10 @@ Cancele para fazer uma verificação mínima.</translation>
         <source>back</source>
         <translation>costas</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6358,6 +6362,15 @@ As geometrias dos recursos serão combinadas no recurso &apos;% &apos;, que mant
 %2</source>
         <translation>Não é possível adicionar novo elemento na camada &quot;%1&quot;. Motivo:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

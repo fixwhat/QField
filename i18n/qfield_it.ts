@@ -4174,6 +4174,10 @@ Annullare per eseguire una scansione veloce del dispositivo.</translation>
         <source>back</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6362,6 +6366,15 @@ Le geometrie degli elementi verranno combinate in un elemento &apos;%1&apos; che
 %2</source>
         <translation>Impossibile aggiungere il nuovo elemento nel layer &quot;%1&quot;. Motivo:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

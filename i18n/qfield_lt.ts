@@ -4173,6 +4173,10 @@ Atšaukite, jei vietoj jos norite atlikti minimalią įrenginių paiešką.</tra
         <source>back</source>
         <translation>galinė</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6363,6 +6367,15 @@ Geoobjektų geometrijos bus sujungtos į geoobjektą „%1“, kuris išsaugos s
 %2</source>
         <translation>Negalima pridėti naujo geoobjekto prie sluoksnio „%1“. Priežastis:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

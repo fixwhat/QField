@@ -4171,6 +4171,10 @@ Peruuta tehd채ksesi suppeampi laiteskannaus.</translation>
         <source>back</source>
         <translation>taka</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6356,6 +6360,15 @@ Kohteen geometriat yhdistet채채n kohteeseen &apos;%1&apos;, johon sis채llytet채�
 %2</source>
         <translation>Ei voida lis채t채 uutta ominaisuutta tasolla &quot;%1&quot;.
  Syy: %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

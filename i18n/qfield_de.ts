@@ -4166,6 +4166,10 @@ Abbrechen um einen verkürzten Scan durchzuführen. </translation>
         <source>back</source>
         <translation>Rückseite</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6350,6 +6354,15 @@ Die Objekt-Geometrien werden in Objekt &apos;%1&apos; zusammengeführt, welches 
 %2</source>
         <translation>Kann kein neues Objekt im Layer &quot;%1&quot; anlegen. Grund:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

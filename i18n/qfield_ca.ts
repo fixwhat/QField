@@ -4170,6 +4170,10 @@ Cancel·leu per fer una anàlisi mínima del dispositiu.</translation>
         <source>back</source>
         <translation>dors</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6358,6 +6362,15 @@ Les geometries dels objectes es combinaran en l&apos;objecte &apos;%1&apos;, que
 %2</source>
         <translation>No es pot afegir un nou objecte a la capa &quot;%1&quot;. Motiu:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -4165,6 +4165,10 @@ Bekapcsolható még a pontossági követelmény mód, amely megakadályozza a gy
         <source>back</source>
         <translation>hátsó</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6347,6 +6351,15 @@ Az elem geometriákat összevonjuk a &apos;%1&apos; elembe, mely megőrzi az att
 %2</source>
         <translation>Nem tudok új elemet hozzáadni &quot;%1&quot; réteghez. Ennek oka:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

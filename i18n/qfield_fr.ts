@@ -4166,6 +4166,10 @@ Cancel to make a minimal device scan instead.</source>
         <source>back</source>
         <translation>arrière</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation>Le plus haut</translation>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6353,6 +6357,16 @@ Les géométries des entités vont être combinées dans l&apos;entité &apos;%1
         <source>Cannot add new feature in layer &quot;%1&quot;. Reason:
 %2</source>
         <translation>Impossible d&apos;ajouter une nouvelle entité dans la couche &quot;%1&quot;. Raison :
+%2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation>Impossible d&apos;ajouter entité dans la couche « %1 »</translation>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation>Impossible de valider la nouvelle entité dans la couche « %1 ». Raison :
 %2</translation>
     </message>
 </context>

@@ -4173,6 +4173,10 @@ Anuluj, aby wykonać zamiast tego minimalne skanowanie urządzeń.</translation>
         <source>back</source>
         <translation>tył</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6363,6 +6367,15 @@ Geometrie elementów zostaną połączone w element &quot;%1&quot;, który zacho
 %2</source>
         <translation>Nie można dodać nowego obiektu na warstwie &quot;%1&quot;. Powód:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

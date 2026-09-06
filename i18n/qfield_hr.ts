@@ -4167,6 +4167,10 @@ Otkažite da pokrenete minimalno skeniranje uređaja.</translation>
         <source>back</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6352,6 +6356,15 @@ Geometrija elemenata će se spojiti u element &apos;%1&apos;, koji će zadržati
 %2</source>
         <translation>Nije moguće dodati novu element u sloj &quot;%1&quot;. Razlog:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

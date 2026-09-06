@@ -4165,56 +4165,12 @@ Cancel to make a minimal device scan instead.</translation>
 <context>
     <name>QfCamera</name>
     <message>
-        <source>Latitude</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Longitude</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Altitude</source>
-        <translation type="unfinished">Altitude</translation>
+        <translation type="obsolete">Altitude</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished">Speed</translation>
-    </message>
-    <message>
-        <source>Orientation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Details stamping enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Details stamping disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Geotagging enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Geotagging disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grid enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Grid disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>front</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>back</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Speed</translation>
     </message>
 </context>
 <context>
@@ -6482,6 +6438,15 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 %2</source>
         <translation type="unfinished">Cannot add new feature in layer &quot;%1&quot;. Reason:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

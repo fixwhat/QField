@@ -4172,6 +4172,10 @@ Zrušiť a spraviť minimálny sken.</translation>
         <source>back</source>
         <translation>vzadu</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6360,6 +6364,15 @@ Dôvod:
 %2</source>
         <translation>Pridanie nového prvku na vrstve &quot;%1&quot; nie je možné. Dôvod:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

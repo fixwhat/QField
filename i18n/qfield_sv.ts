@@ -4169,6 +4169,10 @@ Välj Avbryt för att i stället göra en begränsad enhetssökning.</translatio
         <source>back</source>
         <translation>baksida</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6355,6 +6359,15 @@ Objektens geometrier kommer att slås samman med objektet &apos;%1&apos;, som be
 %2</source>
         <translation>Det gick inte att lägga till ett nytt objekt i lagret &quot;%1&quot;. Orsak:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -4164,6 +4164,10 @@ Bunun yerine minimum cihaz taraması yapmak için iptal edin.</translation>
         <source>back</source>
         <translation>arka</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6344,6 +6348,15 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 %2</source>
         <translation>Katman &quot;%1&quot; içinde yeni özellik eklenemiyor. Sebep:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

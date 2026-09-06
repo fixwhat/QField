@@ -4162,6 +4162,10 @@ Hủy để thay vào đó chỉ quét thiết bị ở mức tối thiểu.</tr
         <source>back</source>
         <translation>camera sau</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6341,6 +6345,15 @@ The features geometries will be combined into feature &apos;%1&apos;, which will
 %2</source>
         <translation>Không thể thêm đối tượng mới vào lớp &quot;%1&quot;. Lý do:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

@@ -4170,6 +4170,10 @@ Cancelar para hacer una búsqueda mínima de dispositivos en su lugar.</translat
         <source>back</source>
         <translation>trasera</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6356,6 +6360,15 @@ Las geometrías de los objetos se combinarán en el objeto &apos;%1&apos;, que c
 %2</source>
         <translation>No se puede añadir objeto nuevo a la capa &quot;%1&quot;. Motivo:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

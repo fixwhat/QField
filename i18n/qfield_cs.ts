@@ -4172,6 +4172,10 @@ Zrušte pro jen minimální skenování zařízení. </translation>
         <source>back</source>
         <translation type="unfinished"/>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6361,6 +6365,15 @@ Geometrie objektů budou zkombinovány do objektu &apos;%1&apos;, který si zach
 %2</source>
         <translation>Nelze přidat nový prvek ve vrstvě &quot;%1&quot;. Důvod:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

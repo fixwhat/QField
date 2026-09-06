@@ -4169,6 +4169,10 @@ Annuleer om in plaats daarvan een minimale apparaatscan uit te voeren.</translat
         <source>back</source>
         <translation>achter</translation>
     </message>
+    <message>
+        <source>Highest</source>
+        <translation type="unfinished"/>
+    </message>
 </context>
 <context>
     <name>QfChangelog</name>
@@ -6354,6 +6358,15 @@ De geometrieën van objecten zullen worden gecombineerd tot object &apos;%1&apos
 %2</source>
         <translation>Kan geen nieuw object toevoegen in laag &quot;%1&quot;. Reden:
 %2</translation>
+    </message>
+    <message>
+        <source>Cannot add feature in layer &quot;%1&quot;</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Cannot commit new feature in layer &quot;%1&quot;. Reason:
+%2</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
